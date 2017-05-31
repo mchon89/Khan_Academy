@@ -12,8 +12,6 @@ python khan_academy.py
 echo " "
 echo " "
 
-
-
 for i in {0..51}
 do
 url="https://www.khanacademy.org/api/v1/topic/"
